@@ -1,4 +1,4 @@
-# RetroDeck for WOLF
+# Rolf
 
 <img src="logo.png" alt="Logo" width="240" height="240">
 
